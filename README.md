@@ -5,7 +5,7 @@
 A simple keyboard for sending Japanese emoticons (Kaomoji) to anywhere.
 
 ## Download
-You can download the latest release [here](./releases).
+You can download the latest release [here](https://www.github.com/LilShieru/KaomojiKeyboard/releases).
 
 ## How to install?
 This software is originally portable (just download the ZIP file and click `KaomojiKeyboard.exe` to run), but you can also download the installer version (`KaomojiKeyboard.Installer.exe`) to install this software like another software.
