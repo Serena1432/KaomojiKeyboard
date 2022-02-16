@@ -84,7 +84,7 @@ The original JSON file will be like this:
 {
   "1.A": {
     "type": "emoji",
-	"emoji": "(* ^ ω ^)"
+    "emoji": "(* ^ ω ^)"
   }
 }
 ```
@@ -98,7 +98,7 @@ And the entire JSON file will be like this:
   },
   "1.A": {
     "type": "emoji",
-	"emoji": "(* ^ ω ^)"
+    "emoji": "(* ^ ω ^)"
   }
 }
 ```
