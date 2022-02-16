@@ -74,7 +74,7 @@ The original JSON file will be like this:
 * You can also add your custom hotkeys by creating an object with the object key is the KaomojiHotKey scheme, and the object value is a nested object with these properties:
 
 | Property | Type | Description |
-| --- | --- |
+| --- | --- | --- |
 | `type` | string | The type of the configured hotkeys, more options will be added later.\n- `emoji` if the configured hotkeys are to send an emoji. |
 | `emoji` | string | If `type` is `emoji`, this property will be used to configured the emoji that will be sent if the user presses the configured hotkeys. |
 
