@@ -74,6 +74,7 @@ The original JSON file will be like this:
 * You can also add your custom hotkeys by creating an object with the object key is the KaomojiHotKey scheme, and the object value is a nested object with these properties:
 
 | Property | Type | Description |
+| --- | --- |
 | `type` | string | The type of the configured hotkeys, more options will be added later.\n- `emoji` if the configured hotkeys are to send an emoji. |
 | `emoji` | string | If `type` is `emoji`, this property will be used to configured the emoji that will be sent if the user presses the configured hotkeys. |
 
@@ -106,6 +107,7 @@ And the entire JSON file will be like this:
 `String`: `"<Modifier>.<Keys>"`
 
 | Part | Description |
+| --- | --- |
 | `<Modifier>` | - `1` if the first key is <kbd>Alt</kbd>.<br>- `2` if the first key is <kbd>Shift</kbd>.<br>- `4` if the first key is <kbd>Control</kbd>.<br>- `8` if the first key is <kbd>Windows</kbd>. |
 | `<Keys>` | The second .NET key (from the Fields part in the [.NET Keys Enum](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.keys) documentation).
 
