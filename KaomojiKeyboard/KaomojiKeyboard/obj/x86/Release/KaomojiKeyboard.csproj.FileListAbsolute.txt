@@ -1,0 +1,10 @@
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\bin\Release\KaomojiKeyboard.exe
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\bin\Release\KaomojiKeyboard.pdb
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\bin\Release\Newtonsoft.Json.dll
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.Form1.resources
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.Properties.Resources.resources
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.SettingsForm.resources
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.csproj.GenerateResource.Cache
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.exe
+C:\Documents\Visual Studio 2010\Projects\KaomojiKeyboard\KaomojiKeyboard\obj\x86\Release\KaomojiKeyboard.pdb
